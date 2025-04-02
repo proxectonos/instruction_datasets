@@ -46,6 +46,10 @@ Some datasets were not included due to license restrictions, meaning they cannot
 
 Users should ensure they comply with the respective licenses when using these datasets. If a dataset requires attribution, non-commercial use, or has other restrictions, those conditions must be respected. For more details on specific license terms, please refer to the official documentation or the original data sources.
 
+## Acknowledgements
+
+These datasets were developed and compiled within the Nós Project, funded by the Ministerio para la Transformación Digital y de la Función Pública - Funded by EU – NextGenerationEU within the framework of the [project ILENIA] (https://proyectoilenia.es/) with reference 2022/TL22/00215336. 
+
 ## Citations
 
 ```bibtex
